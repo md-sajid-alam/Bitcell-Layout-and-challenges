@@ -7,7 +7,8 @@ Design of 6T SRAM Bitcell in 7nm FinFet
 
 ## Layout Screenshot of Bitcell, Height of bitcell: 486nm, Width of Bitcell: 108nm
 
-<img width="1861" height="1042" alt="image" src="https://github.com/user-attachments/assets/7b15a24d-1d3b-4333-985a-7f760e761c6f" />
+<img width="897" height="662" alt="image" src="https://github.com/user-attachments/assets/338e7858-8a69-42e4-b433-030974e6a5ab" />
+
 
 Bitcell Layout Challenges kept in mind while making Layout
 
